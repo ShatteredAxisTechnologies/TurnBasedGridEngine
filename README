@@ -1,0 +1,7 @@
+README
+
+This is a turn based engine that uses a grid layout. It uses GameCenter to pass the game state back and forth. 
+
+To get this engine working create a new app in iTunes connect then set the bundle identifier accordingly.
+
+Hope you enjoy.
